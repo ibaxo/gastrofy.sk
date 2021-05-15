@@ -1,0 +1,26 @@
+---
+enable: true
+# topTitle: Working Area
+title: >
+  ## Naše služby
+service:
+  - content: >
+      #### Grafický dizajn 
+
+      Grafický vzhlaď podľa Vašich predstáv, alebo prispôsobenie vzhľadu k Vašej existujúcej webovej stránke
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Tvorba webovej stránky
+
+      Vytvorenie webovej stránky na mieru, alebo prepojenie samotného objednávkového systému s Vašou existujúcou webovou stránkou
+    image: images/service/web.svg
+  - content: >
+      #### Tvorba mobilnej aplikácie
+
+      Poskytnutie mobilnej aplikácie do vášho objednávkového systému
+    image: images/service/web.svg
+  - content: >
+      #### Online Marketing
+
+      Aby Vás zákazníci ľahšie našli na internete.
+    image: images/service/creative.svg

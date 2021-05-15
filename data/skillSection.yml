@@ -1,0 +1,18 @@
+---
+enable: true
+# topTitle: My Skills
+content: >
+  ## Prečo si vybrať nás?
+
+  Našim cieľom je pomáhať reštauráciám získavať vlastných zákazníkov, provízie zo zisku u nás neplatíte. 
+  Obdržíte Váš vlastný objednávkový systém aj s možnosťou prepojť ho s vašou existujúcou webovou stránkou.
+ 
+image: images/skill/skill-image.jpg
+
+#skill:
+#  - title: HTML
+#    percent: 69
+#  - title: CSS
+#    percent: 60
+#  - title: Javascript
+#    percent: 85
