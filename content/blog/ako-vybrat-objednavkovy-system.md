@@ -65,9 +65,9 @@ Ostatné výhody a nevýhody môžu byť dané zmluvnými podmienkami preto zmlu
 
 **Vlastný objednávkový systém na vlastnej webovej stránke (Gastrofy)**
 
-	Táto forma realizácie môže byť ozaj rôznorodá a stretol som sa s rôznymi riešeniami.
+Táto forma realizácie môže byť ozaj rôznorodá a stretol som sa s rôznymi riešeniami.
 Niektoré reštaurácie zvolili integrovať do svojej web stránky e shop platformu. Túto variantu neodporúčam a preto ju tu ani nebudem opisovať keďže sa z technického a ani užívateľského hľadiska vôbec na tento účel nehodí. Zo skúseností viem že táto voľba zákazníkov skôr odrádza a míňa sa účelu. Existujú platformy pre internetové obchody a na tento účel by sa aj mali používať. 
-	Tak ako existujú platformy pre internetové obchody, vznikli aj platformy pre účel online reštauračných objednávok. To znamená, že majú vytvorený systém pre tento účel alebo ho prispôsobujú na mieru. Na slovensku je ich niekoľko a ich podmienky spolupráce/realizácie sa líšia. Väčšinou fungujú tak, že ich prepojíte s Vašou existujúcou web stránkou alebo môžete túto platformu použiť ako samotnú objednávaciu stránku. Zákazník si vytvorí objednávku a vy ju obdržíte v nejakej forme. Podmienky realizácie sú rôzne a odporúčam podrobný prieskum trhu. Keďže ste navštívili Gastrofy rozhodol som sa uviesť naše hlavné výhody a nevýhody.
+Tak ako existujú platformy pre internetové obchody, vznikli aj platformy pre účel online reštauračných objednávok. To znamená, že majú vytvorený systém pre tento účel alebo ho prispôsobujú na mieru. Na slovensku je ich niekoľko a ich podmienky spolupráce/realizácie sa líšia. Väčšinou fungujú tak, že ich prepojíte s Vašou existujúcou web stránkou alebo môžete túto platformu použiť ako samotnú objednávaciu stránku. Zákazník si vytvorí objednávku a vy ju obdržíte v nejakej forme. Podmienky realizácie sú rôzne a odporúčam podrobný prieskum trhu. Keďže ste navštívili Gastrofy rozhodol som sa uviesť naše hlavné výhody a nevýhody.
 
 
 
@@ -105,5 +105,3 @@ Každá prevádzka má vlastné kritériá pre voľbu svojho online objednávkov
 
 
 Na záver by som sa chcel poďakovať za prečítanie môjho príspevku a verím že som Vám poskytol aspoň základné informácie a prehľad. Ak ste sa rozhodli podrobnejšie preskúmať Gastrofy budeme radi ak nás kontaktujete a my s vami radi prekonzultujeme Vaše potreby a vypracujeme nezáväznú cenovú ponuku.
-
-
