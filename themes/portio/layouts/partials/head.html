@@ -1,8 +1,10 @@
 <head>
   <meta charset="utf-8" />
   <title>{{ .Title }}</title>
+  <meta name="description" content="Reštauračný objednávkový systém">
+  <meta name="keywords" content="Objednávky, Reštaurácie, Objednávky online">
 
-  {{ "<!-- mobile responsive meta -->" | safeHTML }}
+  {{ "<!-- mobile responsive meta -->" | safeHTML }} 
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
 
@@ -20,7 +22,7 @@
   <link href="{{ $style.Permalink }}" rel="stylesheet" />
 
   {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="shortcut icon" href="{{ "images/favicon.ico" | absURL }}" type="image/x-icon" />
+  <link rel="shortcut icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />
   <link rel="icon" href="{{ "images/favicon.png" | absURL }}" type="image/x-icon" />
   {{ with site.Params.googleAnalytics }}
   {{ "<!-- Google Analytics -->" | safeHTML }}

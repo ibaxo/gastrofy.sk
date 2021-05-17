@@ -30,41 +30,41 @@ weight = 5
 # weight = 6
 [[menu.main]]
 name = "Kontakt"
-url = "#contact"
+url = "contact"
 weight = 7
 
 # Sitemap Menu
 [[menu.sitemap]]
-name = "About me"
-url = "about"
+name = "O nás"
+url = "#about"
 weight = 1
 [[menu.sitemap]]
-name = "Frequently Ask Question"
-url = "#"
+name = "Služby"
+url = "#service"
 weight = 2
 [[menu.sitemap]]
-name = "Privacy & Policy"
-url = "#"
-weight = 3
+name = "Čo získate"
+url = "#resume"
+weight = 5
 [[menu.sitemap]]
-name = "Latest Article"
-url = "#"
-weight = 4
+name = "Kontakt"
+url = "contact"
+weight = 7
 
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Portio 2020"
-footerLogo = "images/contact/widget-logo.png"
+copyright = "All right reserved copyright © Gastrofy 2021"
+footerLogo = "images/contact/gastrofy-logo-widget.svg"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
-logo = "images/site-navigation/logo.png"
+logo = "images/site-navigation/gastrofy-logo.svg"
 
 [params.address]
 address = "23 Khan Niketon, Grand Street, NYK."
-email = "hello@example.com"
+email = "info@gastrofy.sk"
 openingHours = "Open from 10am to 6pm (close at 5pm Sundays)"
-phone = "+(448) 833 5272 332"
+phone = "0950 893 610"
 
 [params.map]
 APIkey = "YOUR GOOGLE MAP API"
