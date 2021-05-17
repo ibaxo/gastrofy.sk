@@ -56,6 +56,10 @@
             @include desktop {
                 margin: 0;
             }
+            p {
+				text-align: justify;
+				text-indent: 3em;
+			}
             .blog-section {
                 margin-bottom: 60px;
                 img {
