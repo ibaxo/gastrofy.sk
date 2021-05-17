@@ -57,7 +57,7 @@ contactLink = "contact"
 copyright = "All right reserved copyright © Gastrofy 2021"
 footerLogo = "images/contact/gastrofy-logo-widget.svg"
 formspreeURL = "https://formspree.io/f/xrgrpybj"
-googleAnalytics = "YOUR GOOGLE ANALYTICS CODE"
+googleAnalytics = "G-ZCQ9TMCY8Z"
 logo = "images/site-navigation/gastrofy-logo.svg"
 
 [params.address]
