@@ -1,9 +1,7 @@
 ---
-enable: false
+enable: true
 topTitle: Blog
 title: >
-  ## Recent Article
-
-  Enjoy team diversity and increase their networks among others people in various fields by provided.
+  ## Najnovšie články
 
 buttonTarget: blog
