@@ -1,8 +1,8 @@
 ---
 title: "Ako vybrať objednávkový systém"
 date: 2021-05-01T12:00:00+02:00
-featureImage: images/allpost/allPost-7.jpg
-postImage: images/single-blog/feature-image.jpg
+featureImage: images/allpost/allPost-10.jpg
+postImage: images/single-blog/feature-image2.jpg
 ---
 
 Vážený/á čitateľ/ka vítam Vás na našom blogu a rád by som zhrnul na začiatku čomu sa budem venovať v tomto príspevku. 
