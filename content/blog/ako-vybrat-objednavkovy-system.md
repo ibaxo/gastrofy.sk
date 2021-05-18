@@ -33,11 +33,11 @@ Budem sa snažiť obsiahnuť väčšinu dostupných možností ktoré na slovens
 
 Asi takýmto spôsobom by som vetvill hlavné rozdelenie typov obj. systémov.
 
-Objednávky cez webovú stránku/ aplikáciu tretej strany
-Vlastný objednávkový systém na vlastnej webovej stránke 
-Kombinácia oboch foriem
+- Objednávky cez webovú stránku alebo aplikáciu tretej strany
+- Vlastný objednávkový systém na vlastnej webovej stránke 
+- Kombinácia oboch foriem
 
-**Objednávky cez webovú stránku/ aplikáciu tretej strany**
+**Objednávky cez webovú stránku alebo aplikáciu tretej strany**
 
 V poslednej dobe sa tento typ firiem rozrástol ako huby po daždi. Hlavným dôvodom bol práve zvýšený trend online objednávania jedla domov a do práce v čase epidémie a obmedzená možnosť navštíviť obľúbené reštaurácie zákazníkom. Mnohé prevádzky boli zaskočené a bola to najrýchlejšia možnosť ako prevádzku úplne neodstaviť. 
 
@@ -54,7 +54,7 @@ Výhody:
 
 Nevýhody:
 - Síce budete v danej databáze vyhľadateľný ale nič Vám nezaručuje množstvo objednávok a ani to že  budete hneď aj na vrchu priečky a to hlavne lokalitách s veľkou konkurenciou. 
-- Platíte provízie z obratu a vo väčšine prípadov nemalé a ak použijete ich kurierov tak sa provízie ešte navýšia. Z dlhodobejšieho hľadiska tieto provízie prevýšia obstarávaciu cenu za vlastný objednávací systém na Vašej web stránke aj s reklamou.
+- Platíte provízie z obratu a vo väčšine prípadov nemalé a ak použijete ich kurierov tak sa provízie ešte navýšia. Z dlhodobejšieho hľadiska tieto provízie ďaleko prevýšia obstarávaciu cenu za vlastný objednávací systém na Vašej web stránke aj s reklamou.
 - Online platby budú obdržané u tretej strany a vy na vyplatenie čakáte niekedy aj týždne
 - Ak budete používať kurierov tretej strany neviete zaručiť v akom stave obdrží zákazník zásielku	
 - Nebudujete si vlastné meno a zákazníci si pravdepodobne ani nebudú pamätať odkial si naposledy objednali
@@ -63,11 +63,13 @@ Nevýhody:
 Ostatné výhody a nevýhody môžu byť dané zmluvnými podmienkami preto zmluvu silno odporúčam podrobne preštudovať pred podpísaním a začatím spolupráce. Ak nemáte vlastný rozvoz vaše možnosti sa asi zúžia na túto voľbu alebo si skúste nájsť vo svojom okolí brigádnika/zamestnanca na tento účel. 
 
 
-**Vlastný objednávkový systém na vlastnej webovej stránke (Gastrofy)**
+**Vlastný objednávkový systém na vlastnej webovej stránke**
+
+***Do tejto kategórie radím aj Gastrofy***
 
 Táto forma realizácie môže byť ozaj rôznorodá a stretol som sa s rôznymi riešeniami.
 Niektoré reštaurácie zvolili integrovať do svojej web stránky e shop platformu. Túto variantu neodporúčam a preto ju tu ani nebudem opisovať keďže sa z technického a ani užívateľského hľadiska vôbec na tento účel nehodí. Zo skúseností viem že táto voľba zákazníkov skôr odrádza a míňa sa účelu. Existujú platformy pre internetové obchody a na tento účel by sa aj mali používať. 
-Tak ako existujú platformy pre internetové obchody, vznikli aj platformy pre účel online reštauračných objednávok. To znamená, že majú vytvorený systém pre tento účel alebo ho prispôsobujú na mieru. Na slovensku je ich niekoľko a ich podmienky spolupráce/realizácie sa líšia. Väčšinou fungujú tak, že ich prepojíte s Vašou existujúcou web stránkou alebo môžete túto platformu použiť ako samotnú objednávaciu stránku. Zákazník si vytvorí objednávku a vy ju obdržíte v nejakej forme. Podmienky realizácie sú rôzne a odporúčam podrobný prieskum trhu. Keďže ste navštívili Gastrofy rozhodol som sa uviesť naše hlavné výhody a nevýhody.
+Tak ako existujú platformy pre internetové obchody, vznikli aj platformy pre účel online reštauračných objednávok. To znamená, že majú vytvorený systém pre tento účel alebo ho prispôsobujú na mieru. Na slovensku je ich niekoľko a ich podmienky spolupráce či realizácie sa líšia. Väčšina z nich funguje na hotových platformách pre každú reštauráciu rovnako. Väčšia časť týchto platform sa žiaľ rozhodlo ísť cestou, že aj oni si pýtajú províziu zo ziskov. Mne sa osobne tento spôsob nepáči. Viete si predstaviť že si otvoríte internetový obchod na jednej z platform a budete platiť províziu z obratu? ***Práve v tomto sa Gastrofy vybral inou cestou***, snažíme sa ísť cestou klasického internetového obchodu, kedy zaplatíte jednorázovo za integráciu a potom len fixné poplatky ako napríklad hosting, databázy, a v prípade záujmu iné služby. Väčšinou to funguje tak, že tento systém prepojíte s Vašou existujúcou web stránkou alebo môžete túto platformu použiť ako samotnú objednávaciu stránku. Zákazník si vytvorí objednávku a vy ju obdržíte v nejakej forme. Podmienky realizácie sú rôzne a odporúčam podrobný prieskum trhu. Keďže ste navštívili Gastrofy rozhodol som sa uviesť naše hlavné výhody a nevýhody.
 
 
 

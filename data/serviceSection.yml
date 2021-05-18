@@ -18,9 +18,9 @@ service:
       #### Tvorba mobilnej aplikácie
 
       Poskytnutie mobilnej aplikácie do vášho objednávkového systému.
-    image: images/service/web.svg
+    image: images/service/smartphone.svg
   - content: >
       #### Online Marketing
 
       Aby Vás zákazníci ľahšie našli na internete.
-    image: images/service/creative.svg
+    image: images/service/seo.svg
